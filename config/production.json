@@ -1,4 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://youngw417:7188euok@contacts-dgudm.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoURI":"mongodb+srv://youngw417:fnPNbPVAqSM8CvCT@contacts-dgudm.mongodb.net/test?retryWrites=true&w=majority",
     "jwtSecret": "sunminwon"
 }
